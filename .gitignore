@@ -3,6 +3,7 @@ __pycache__/
 .venv/
 venv/
 mol2matrix-env/
+.codex-tmp/
 results/
 !results/
 !results/.gitkeep
