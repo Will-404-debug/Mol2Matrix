@@ -4,5 +4,12 @@ __pycache__/
 venv/
 mol2matrix-env/
 results/
+!results/
+!results/.gitkeep
 data/
+!data/
+!data/fasta/
+!data/fasta/test.fasta
+!data/pdb/
+!data/pdb/.gitkeep
 .DS_Store
